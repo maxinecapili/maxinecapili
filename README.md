@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there! 👋</h1>
+<h1 align="left">Hey there! 👋</h1>
 
 ###
 
@@ -40,5 +40,9 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=maxinecapili&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/maxinecapili/maxinecapili/output/snake.svg" alt="Snake animation" />
 
 ###
